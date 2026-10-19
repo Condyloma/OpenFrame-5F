@@ -12,9 +12,7 @@ Some parts still have modelling differences or unresolved issues due to the chal
 
 I am developing this project in my free time as an independent contribution to the OpenDrone community.
 
-CAD software
 
-FreeCAD
 
 Upstream project
 
@@ -29,3 +27,5 @@ Notes
 The model has not necessarily been verified for complete dimensional equivalence to the original. Please check dimensions and fit before manufacturing parts.
 
 See the upstream repository for the original design, project documentation and applicable licence information.
+
+
